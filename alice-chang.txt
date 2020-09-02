@@ -1,5 +1,6 @@
     CodePen: https://codepen.io/rocococode/pen/mdPMNry?editors=1100
-    
+
+    Questions:
     1. What is Semantic HTML? 
 	HTML tags that convey meaning to my markup. 
     2. What is HTML used for? 
